@@ -1,0 +1,544 @@
+{
+    "MobileData" :[
+{
+
+ "Name" : "Redmi 1S",
+
+ "Price" : [4999],
+
+ "RAM" : ["1GB"],
+
+ "Internal_memory" : ["8GB"],
+
+ "Front_camara" : "1.6MP",
+
+ "Rear_camra" : "8MP",
+
+ "Battery" : "2000 mAh",
+
+ "Dual_camara" : "No",
+
+ "Processor" : "Max 1.6 GHz",
+
+ "Network_connectivity" : ["2G","3G"],
+ 
+ "Colors" : ["Black","White","Grey"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "Redmi 2",
+
+ "Price" : [5999],
+
+ "RAM" : ["1GB"],
+
+ "Internal_memory" : ["8GB"],
+
+ "Front_camara" : "2MP",
+
+ "Rear_camra" : "8MP",
+
+ "Battery" : "2200 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity"  :["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 410",
+ 
+ "Colors" : ["White","Black","Yellow"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "Redmi 3S",
+
+ "Price" : [6999,8999],
+
+ "RAM" : ["2GB","3GB"],
+
+ "Internal_memory" : ["16GB","32GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "4100 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 430",
+ 
+ "Colors" : ["Grey","Gold","Black"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "Redmi 4",
+
+ "Price" : [6999,8499,10499],
+
+ "RAM" : ["2GB","3GB","4GB"],
+
+ "Internal_memory" : ["16GB","32GB","64GB"],
+
+ "Front_camara" : "13MP",
+
+ "Rear_camra" : "5MP",
+
+ "Battery" : "4100 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 435",
+ 
+ "Colors" : ["Black","Gold"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Redmi 4A",
+
+ "Price" : [5999,6999],
+
+ "RAM" : ["2GB","3GB"],
+
+ "Internal_memory" :["16GB","32GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "3120 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" :["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 425",
+ 
+ "Colors" : ["Dark Grey","Gold","Rose Gold"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "Redmi Note 4",
+
+ "Price" : [9999,10999],
+
+ "RAM" : ["3G","4G"],
+
+ "Internal_memory" : ["32GB","64GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "4100 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 625",
+ 
+ "Colors" :["Black","Dark Gray","Gold","Blue"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Mi A1",
+
+ "Price" : [13999],
+
+ "RAM" : ["4GB"],
+
+ "Internal_memory" : ["64GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "24MP",
+
+ "Battery" : "3080 mAh",
+
+ "Dual_camara" : "Yes",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 625",
+ 
+ "Colors" :["Rose Gold","Gold","Black","Red"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Redmi Y1 lite",
+
+ "Price" : [6999],
+
+ "RAM" : ["2GB"],
+
+ "Internal_memory" : ["16GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "3080 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 425",
+ 
+ "Colors" : ["Gpld","Dark Grey"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "Redmi 5A",
+
+ "Price" : [5999,6999],
+
+ "RAM" : ["2GB","3GB"],
+
+ "Internal_memory" :["16GB","32GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "3000 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 425",
+ 
+ "Colors" : ["Rose Gold","Gold","Dark Gray"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "Mi Max 2",
+
+ "Price" : [13999,15999],
+
+ "RAM" : ["4GB"],
+
+ "Internal_memory" : ["32GB","64GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "12MP",
+
+ "Battery" : "5300 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 625",
+ 
+ "Colors" : ["Black"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Redmi Note 5",
+
+ "Price" : [9999,11999],
+
+ "RAM" : ["3GB","4GB"],
+
+ "Internal_memory" : ["32GB","64GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "12MP",
+
+ "Battery" : "4000 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 625",
+ 
+ "Colors" : ["Black","Gold","Blue","Rose Gold"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Redmi 5",
+
+ "Price" : [7999,8999,10999],
+
+ "RAM" : ["2GB","3GB","4GB"],
+
+ "Internal_memory" : ["16GB","32GB","64GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "12MP",
+
+ "Battery" : "4000 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 625",
+ 
+ "Colors" : ["Black","Gold","Blue","Rose Gold"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Redmi Y1",
+
+ "Price" : [8999,10999],
+
+ "RAM" : ["3GB","4GB"],
+
+ "Internal_memory" : ["32GB","64GB"],
+
+ "Front_camara" : "16MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "3080",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 435",
+ 
+ "Colors" : ["Gold","Dark Gray"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Redmi Note 5 Pro",
+
+ "Price" : [14999,16999],
+
+ "RAM" : ["4GB","6GB"],
+
+ "Internal_memory" : ["64GB"],
+
+ "Front_camara" : "20MP",
+
+ "Rear_camra" : "12MP,5MP",
+
+ "Battery" : "4000",
+
+ "Dual_camara" : "Yes",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 636",
+ 
+ "Colors" : ["Black","Gold","Rose Gold","Lake Blue"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Mi Mix 2",
+
+ "Price" : [29999],
+
+ "RAM" : ["6GB"],
+
+ "Internal_memory" : ["128GB"],
+
+ "Front_camara" : "5MP",
+
+ "Rear_camra" : "12MP",
+
+ "Battery" : "3400 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 835",
+ 
+ "Colors" : ["Black"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Samsung Galaxy On Nxt",
+
+ "Price" : [10999,12900],
+
+ "RAM" : ["3GB"],
+
+ "Internal_memory" : ["16GB","64GB"],
+
+ "Front_camara" : "8MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "3300 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Exynos 7870",
+ 
+ "Colors" : ["Black","Gold"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "Samsung Galaxy J6",
+
+ "Price" : [13990,16490],
+
+ "RAM" : ["3GB","4GB"],
+
+ "Internal_memory" : ["32GB","64GB"],
+
+ "Front_camara" : "8MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "3000 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Exynos 7870",
+ 
+ "Colors" : ["Blue","Gold","Black"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "HTC U11",
+
+ "Price" : ["39999"],
+
+ "RAM" : ["6GB"],
+
+ "Internal_memory" : ["128GB"],
+
+ "Front_camara" : "16MP",
+
+ "Rear_camra" : "12MP",
+
+ "Battery" : "3000 mAh",
+
+ "Dual_camara" :  "no",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 835",
+ 
+ "Colors" : ["Solar Red"],
+
+ "Fingerprint" : "Yes"
+
+},
+{
+
+ "Name" : "HTC Desire 828",
+
+ "Price" : [8500,11490],
+
+ "RAM" : ["2GB","3GB"],
+
+ "Internal_memory" : ["16GB","32GB"],
+
+ "Front_camara" : "4MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "2800 mAh",
+
+ "Dual_camara" : "NO",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Media Tek MT6753",
+ 
+ "Colors" : ["Dark Grey","Pearl White"],
+
+ "Fingerprint" : "No"
+
+},
+{
+
+ "Name" : "HTC Desire 820",
+
+ "Price" : [25999],
+
+ "RAM" : ["2GB"],
+
+ "Internal_memory" : ["16GB"],
+
+ "Front_camara" : "8MP",
+
+ "Rear_camra" : "13MP",
+
+ "Battery" : "2600 mAh",
+
+ "Dual_camara" : "No",
+
+ "Network_connectivity" : ["2G","3G","4G"],
+
+ "Processor" : "Snapdragon 615",
+ 
+ "Colors" : ["Santorini White"],
+
+ "Fingerprint" : "No"
+
+}
+]
+}
